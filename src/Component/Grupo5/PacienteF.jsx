@@ -293,7 +293,7 @@ export default function PacienteF() {
                                 :
                                 <Snackbar open={open} autoHideDuration={6000} onClose={handleClose}>
                                 <Alert onClose={handleClose} severity="error">
-                                    Los datos no se han subido correctamente!
+                                    Los datos no se han subido correctamente!, probando funcinamiento de git flow
                         </Alert>
                             </Snackbar>
                                 }
